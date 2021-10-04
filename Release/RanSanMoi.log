@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Game C_C++\RanSanMoi\mylib.h(54,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Game C_C++\RanSanMoi\mylib.h(54,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Game C_C++\RanSanMoi\Source.cpp(467,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 36 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RanSanMoi.vcxproj -> D:\Game C_C++\RanSanMoi\Release\RanSanMoi.exe

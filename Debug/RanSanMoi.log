@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Game C_C++\RanSanMoi\mylib.h(54,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Game C_C++\RanSanMoi\mylib.h(54,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Game C_C++\RanSanMoi\Source.cpp(498,15): warning C4566: character represented by universal-character-name '\u0102' cannot be represented in the current code page (1252)
+D:\Game C_C++\RanSanMoi\Source.cpp(507,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RanSanMoi.vcxproj -> D:\Game C_C++\RanSanMoi\Debug\RanSanMoi.exe
